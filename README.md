@@ -4,6 +4,8 @@
 
 # Carcaras-bar
 
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://diogodeveloper.netlify.com?repository=https://github.com/ArikBartzadok/my-portfolio/) 
+
 🍺 Site desenvolvido para o carcarás bar
 
 </div>
