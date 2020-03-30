@@ -6,13 +6,13 @@
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://diogodeveloper.netlify.com?repository=https://github.com/ArikBartzadok/my-portfolio/) 
 
-🍺 Site desenvolvido para o carcarás bar
+🍺 Web-site developed for carcarás bar.
 
 </div>
 
-build em - 2020
+build in - 2020
 
-deploy de: frontend/publics/
+deploy from: frontend/publics/
 
 changes: ok
 
