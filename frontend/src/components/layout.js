@@ -90,13 +90,13 @@ const Layout = props => {
       </main>
       <footer className="site-foot">
         &copy; {new Date().getFullYear()} <Link to={`/`}>{title}</Link> &mdash;
-        Built with{" "}
+        Development by {" "}
         <a
           href="https://github.com/ArikBartzadok/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          ReactJS
+          Diogo Ferreira
         </a>
       </footer>
     </div>
