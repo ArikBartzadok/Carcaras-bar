@@ -6,7 +6,7 @@
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://carcaras.netlify.com?repository=https://github.com/ArikBartzadok/Carcaras-bar/) 
 
-🍺 Web-site developed for carcarás bar.
+### 🍺 Web-site developed for carcarás bar.
 
 </div>
 
