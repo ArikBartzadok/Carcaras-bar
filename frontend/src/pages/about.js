@@ -36,7 +36,7 @@ const AboutPage = ({ data }, location) => {
           </p>
           <p>
             parágrafo
-          </p>
+          </p>          
         </div>
       </article>
     </Layout>
