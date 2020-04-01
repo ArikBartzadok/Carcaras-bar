@@ -17,7 +17,7 @@ build in - 2020
 deploy from: frontend/publics/
 
 changes: ok
-- This web-site was developed with GatsbiJS, ReactJS, NodeJS and GraphQL.
+- This web-site was developed with **GatsbiJS**, **ReactJS**, **NodeJS** and **GraphQL**.
 
 ## Author
 
