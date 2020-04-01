@@ -1,20 +1,23 @@
 <div align="center" style="margin-bottom:30px">
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![Netlify Status](https://api.netlify.com/api/v1/badges/01a2e2de-d57d-4d89-8322-95685000e60f/deploy-status)](https://app.netlify.com/sites/diogodeveloper/deploys/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![Netlify Status](https://api.netlify.com/api/v1/badges/01a2e2de-d57d-4d89-8322-95685000e60f/deploy-status)](https://app.netlify.com/sites/carcaras/deploys/)
 
 # Carcaras-bar
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://diogodeveloper.netlify.com?repository=https://github.com/ArikBartzadok/my-portfolio/) 
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://carcaras.netlify.com?repository=https://github.com/ArikBartzadok/Carcaras-bar/) 
 
-🍺 Site desenvolvido para o carcarás bar
+### 🍺 Web-site developed for carcarás bar.
 
 </div>
 
-build em - 2020
+This web-site has as main objective, to include posts about the most diverse options present in the menu.
 
-deploy de: frontend/publics/
+build in - 2020
+
+deploy from: frontend/publics/
 
 changes: ok
+- This web-site was developed with **GatsbyJS**, **ReactJS**, **NodeJS** and **GraphQL**.
 
 ## Author
 
