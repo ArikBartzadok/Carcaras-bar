@@ -10,6 +10,8 @@
 
 </div>
 
+This site has as main objective, to include posts about the most diverse options present in the menu.
+
 build in - 2020
 
 deploy from: frontend/publics/
