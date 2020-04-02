@@ -27,16 +27,16 @@ const Layout = props => {
           <nav id="swup" class="site-head-left">
             <ul className="nav" role="menu">
               <li className="nav-home nav-current" role="menuitem">
-                <Link to={`/`}>Home</Link>
+                <Link to={`/`}>Início</Link>
+              </li>              
+              <li className="nav-tags" role="menuitem">
+                <Link to={`/tags`}>Cardápio</Link>
+              </li>
+              <li className="nav-elements" role="menuitem">
+                <Link to={`/blog`}>Blog</Link>
               </li>
               <li className="nav-about" role="menuitem">
                 <Link to={`/about`}>Saiba +</Link>
-              </li>
-              <li className="nav-elements" role="menuitem">
-                <Link to={`/elements`}>Elements</Link>
-              </li>
-              <li className="nav-tags" role="menuitem">
-                <Link to={`/tags`}>Cardápio</Link>
               </li>
             </ul>
           </nav>
@@ -47,30 +47,22 @@ const Layout = props => {
           </div>
           <div className="site-head-right">
             <div className="social-links">
+            <a 
+                href="https://api.whatsapp.com/send?phone=5519991621576&text=Olá,%20eu%20gostaria%20de%20fazer%20um%20pedido"
+                title="Whatsapp"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <div class="whatts">Whatsapp</div>
+              </a>
               <a
-                href="https://www.facebook.com"
+                href="https://github.com/ArikBartzadok/"
                 title="Facebook"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 Facebook
-              </a>
-              <a
-                href="https://twitter.com"
-                title="Twitter"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Twitter
-              </a>
-              <Link
-                to={`/rss.xml`}
-                title="RSS"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                RSS
-              </Link>
+              </a>                 
               <a
                 href="https://github.com/ArikBartzadok/"
                 title="GitHub"
@@ -92,7 +84,7 @@ const Layout = props => {
         &copy; {new Date().getFullYear()} <Link to={`/`}>{title}</Link> &mdash;
         Development by {" "}
         <a
-          href="https://github.com/ArikBartzadok/"
+          href="https://diogodeveloper.netlify.com/"
           target="_blank"
           rel="noopener noreferrer"
         >

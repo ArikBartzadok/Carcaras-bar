@@ -24,6 +24,10 @@ body {
   margin: 0;
 }
 
+.whatts{
+  color: rgb(45, 243, 72);
+}
+
 /**
 * Render the main element consistently in IE.
 */

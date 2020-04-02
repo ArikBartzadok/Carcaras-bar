@@ -14,7 +14,7 @@ const ElementsPage = ({ data }, location) => {
   return (
     <Layout title={siteTitle}>
       <SEO
-        title="Elements"
+        title="Dev"
       />
 
       <article className="post-content page-template no-image">

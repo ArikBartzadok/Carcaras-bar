@@ -17,7 +17,7 @@ const TagIndex = ({ data }) => {
   return (
     <Layout title={siteTitle}>
       <SEO
-        title="Tags"
+        title="Cardápio"
       />
       <header className="tag-page-head">
           <h1 className="page-head-title">Tags({tags.length})</h1>
