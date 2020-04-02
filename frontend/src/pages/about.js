@@ -18,7 +18,7 @@ const AboutPage = ({ data }, location) => {
       <article className="post-content page-template no-image">
         <div className="post-content-body">
           <h2 id="clean-minimal-and-deeply-customisable-london-is-a-theme-made-for-people-who-appreciate-simple-lines-">
-            Esta página será responsável por contar a história do Carcarás Bar
+            Conheça nossa história
           </h2>
           <figure className="kg-card kg-image-card kg-width-full">
             <Img
@@ -27,16 +27,18 @@ const AboutPage = ({ data }, location) => {
             />
             <figcaption>description</figcaption>
           </figure>
-          <h3 id="dynamic-styles">Subtítulo</h3>
+          <h3 id="dynamic-styles">Como tudo começou</h3>
           <p>
             um pouco da história
           </p>
+          <h3 id="dynamic-styles">Porque "Carcarás"?</h3>
           <p>
-          parágrafo
+            história por detrás do nome
           </p>
-          <p>
-            parágrafo
-          </p>          
+          <h3 id="dynamic-styles">Conheça nossa equipe</h3>
+          <p>Foto da equipe</p>
+          <h3 id="dynamic-styles">Visite-nos</h3>
+          <p>mapa incorporations : maps</p>
         </div>
       </article>
     </Layout>
@@ -51,7 +53,7 @@ const indexQuery = graphql`
       }
     }
     benchAccounting: file(
-      relativePath: { eq: "bench-accounting-49909-unsplash.jpg" }
+      relativePath: { eq: "bbbb.jpg" }
     ) {
       childImageSharp {
         fluid(maxWidth: 1360) {
