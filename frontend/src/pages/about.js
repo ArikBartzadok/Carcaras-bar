@@ -38,7 +38,9 @@ const AboutPage = ({ data }, location) => {
           <h3 id="dynamic-styles">Conheça nossa equipe</h3>
           <p>Foto da equipe</p>
           <h3 id="dynamic-styles">Visite-nos</h3>
-          <p>mapa incorporations : maps</p>
+
+          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14759.040193154842!2d-46.9225509!3d-22.3626874!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x34c9642a10f6a9e4!2sCarcar%C3%A1&#39;s%20Bar%20e%20Lanchonete!5e0!3m2!1spt-BR!2sbr!4v1585805752452!5m2!1spt-BR!2sbr" />
+
         </div>
       </article>
     </Layout>
