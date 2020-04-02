@@ -1,5 +1,6 @@
 import React from "react"
 import { graphql, StaticQuery } from "gatsby"
+import Typical from 'react-typical'
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -25,7 +26,11 @@ const BlogIndex = ({ data }, location) => {
       {data.site.siteMetadata.description && (
         <header className="page-head">
           <h2 className="page-head-title">
-            {data.site.siteMetadata.description}
+          <Typical                           
+            steps={['Carcarás bar ...', 1000, 'Melhor lugar não há!', 500]}
+            loop={Infinity}
+            wrapper="p"
+          />
           </h2>
         </header>
       )}
