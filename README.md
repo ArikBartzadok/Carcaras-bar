@@ -12,12 +12,15 @@
 
 This web-site has as main objective, to include posts about the most diverse options present in the menu.
 
-build in - 2020
-
-deploy from: frontend/publics/
-
-changes: ok
 - This web-site was developed with **GatsbyJS**, **ReactJS**, **NodeJS** and **GraphQL**.
+
+## Install
+
+```
+$ git clone git@github.com:ArikBartzadok/Carcaras-bar.git <<PROJECT_NAME>>
+# Recommend you to delete `.git`
+$ cd <<PROJECT_NAME>> && rm -r .git
+```
 
 ## Author
 
