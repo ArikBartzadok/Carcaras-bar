@@ -22,6 +22,21 @@ $ git clone git@github.com:ArikBartzadok/Carcaras-bar.git <<PROJECT_NAME>>
 $ cd <<PROJECT_NAME>> && rm -r .git
 ```
 
+## Development
+```
+$ cd frontend/
+$ npm run dev
+# or
+$ gatsby develop
+```
+
+## Build
+```
+$ npm run build
+# or
+$ gatsby build
+```
+
 ## Author
 
 - [Diogo Ferreira](https://diogodeveloper.netlify.com/)
