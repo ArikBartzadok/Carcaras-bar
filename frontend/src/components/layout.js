@@ -53,7 +53,7 @@ const Layout = props => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <div class="whatts">Whatsapp</div>
+                Whatsapp
               </a>
               <a
                 href="https://github.com/ArikBartzadok/"
@@ -61,7 +61,7 @@ const Layout = props => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Facebook
+              Facebook
               </a>                 
               <a
                 href="https://github.com/ArikBartzadok/"
@@ -69,7 +69,7 @@ const Layout = props => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Instagram
+                Instagram                
               </a>
             </div>
           </div>
