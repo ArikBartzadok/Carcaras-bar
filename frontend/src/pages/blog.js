@@ -19,9 +19,7 @@ const ElementsPage = ({ data }, location) => {
       <article className="post-content page-template no-image">
         <div className="post-content-body">
             <p>
-                hello, world!
-
-                este será um blog
+                Eventos Carcará Bar
             </p>
         </div>
       </article>

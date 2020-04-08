@@ -1,6 +1,6 @@
 module.exports = {
   name: 'Carcaras',
-  shortName: 'CCA',
+  shortName: 'Carcarás Bar',
   description: 'Carcarás bar, melhor lugar não há!',
   url: 'https://carcaras.netlify.com', // Domain of your site without prefix!
   prefix: '/',

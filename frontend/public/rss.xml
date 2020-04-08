@@ -1,1 +1,558 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Carcaras]]></title><description><![CDATA[Carcarás bar, melhor lugar não há!]]></description><link>https://carcaras.netlify.com/</link><generator>RSS for Node</generator><lastBuildDate>Mon, 06 Apr 2020 22:10:36 GMT</lastBuildDate><item><title><![CDATA[Coca Cola 350ml - R$4.50]]></title><description><![CDATA[R$ 4.50]]></description><link>https://carcaras.netlify.com//bebidas/coca_cola/</link><guid isPermaLink="false">https://carcaras.netlify.com//bebidas/coca_cola/</guid><pubDate>Thu, 02 Apr 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;R$ 4.50&lt;/h1&gt;</content:encoded></item><item><title><![CDATA[Porção de batatas fritas - R$15.00]]></title><description><![CDATA[R$ 15.00]]></description><link>https://carcaras.netlify.com//porcoes/porcao_batata_frita/</link><guid isPermaLink="false">https://carcaras.netlify.com//porcoes/porcao_batata_frita/</guid><pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;R$ 15.00&lt;/h1&gt;</content:encoded></item><item><title><![CDATA[Fanta laranja 350ml - R$4.00]]></title><description><![CDATA[R$ 4.00]]></description><link>https://carcaras.netlify.com//bebidas/fanta_laranja/</link><guid isPermaLink="false">https://carcaras.netlify.com//bebidas/fanta_laranja/</guid><pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;R$ 4.00&lt;/h1&gt;</content:encoded></item><item><title><![CDATA[X-Tudo - R$15.00]]></title><description><![CDATA[R$ 15.00]]></description><link>https://carcaras.netlify.com//lanches/x_tudo/</link><guid isPermaLink="false">https://carcaras.netlify.com//lanches/x_tudo/</guid><pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;R$ 15.00&lt;/h1&gt;</content:encoded></item><item><title><![CDATA[Porção de Peixe frito - R$15.00]]></title><description><![CDATA[R$ 15.00]]></description><link>https://carcaras.netlify.com//porcoes/porcao_peixe/</link><guid isPermaLink="false">https://carcaras.netlify.com//porcoes/porcao_peixe/</guid><pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;R$ 15.00&lt;/h1&gt;</content:encoded></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Carcaras]]></title><description><![CDATA[Carcarás bar, melhor lugar não há!]]></description><link>https://carcaras.netlify.com/</link><generator>RSS for Node</generator><lastBuildDate>Wed, 08 Apr 2020 02:44:03 GMT</lastBuildDate><item><title><![CDATA[Carcará linguiça - R$17.49]]></title><description><![CDATA[R$ 17.49]]></description><link>https://carcaras.netlify.com//lanches/carcara_linguica/</link><guid isPermaLink="false">https://carcaras.netlify.com//lanches/carcara_linguica/</guid><pubDate>Fri, 10 Apr 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;R$ 17.49&lt;/h1&gt;
+&lt;h3 id=&quot;unordered&quot;&gt;
+&lt;strong&gt;
+&lt;strong&gt;Ingredientes&lt;/strong&gt;
+&lt;/strong&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+    &lt;li&gt;Hambúrguer de linguiça 150g.&lt;/li&gt;
+    &lt;li&gt;Queijo Prato.&lt;/li&gt;
+    &lt;li&gt;Cebola caramelizada.&lt;/li&gt;
+    &lt;li&gt;Rúcula.&lt;/li&gt;
+    &lt;li&gt;Geléia de pimenta.&lt;/li&gt;
+    &lt;li&gt;Fritas.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+&lt;h3&gt;
+&lt;strong&gt;
+&lt;strong&gt;Adicionais&lt;/strong&gt;
+&lt;/strong&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+    &lt;li&gt;Cebola caramelizada - R$1.00.&lt;/li&gt;
+    &lt;li&gt;Geléia de pimenta - R$1.50.&lt;/li&gt;
+    &lt;li&gt;Molho Barbecue - R$1.50.&lt;/li&gt;
+    &lt;li&gt;Cheddar - R$2.00.&lt;/li&gt;
+    &lt;li&gt;Ovo - R$1.00.&lt;/li&gt;
+    &lt;li&gt;Bacon - R$1.50.&lt;/li&gt;
+    &lt;li&gt;Batata frita - R$2.50.&lt;/li&gt;
+    &lt;li&gt;Cheddar e Bacon na batata - R$2.50.&lt;/li&gt;
+    &lt;li&gt;Muss. e Bacon na batata - R$2.50.&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Carcará 2.0 - R$19.99]]></title><description><![CDATA[R$ 19.99]]></description><link>https://carcaras.netlify.com//lanches/carcara_20/</link><guid isPermaLink="false">https://carcaras.netlify.com//lanches/carcara_20/</guid><pubDate>Thu, 09 Apr 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;R$ 19.99&lt;/h1&gt;
+&lt;h3 id=&quot;unordered&quot;&gt;
+&lt;strong&gt;
+&lt;strong&gt;Ingredientes&lt;/strong&gt;
+&lt;/strong&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+    &lt;li&gt;2 Hambúrgueres de 150g.&lt;/li&gt;
+    &lt;li&gt;Queijo Prato.&lt;/li&gt;
+    &lt;li&gt;Alface.&lt;/li&gt;
+    &lt;li&gt;Bacon.&lt;/li&gt;
+    &lt;li&gt;Molho especial.&lt;/li&gt;
+    &lt;li&gt;Fritas.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+&lt;h3&gt;
+&lt;strong&gt;
+&lt;strong&gt;Adicionais&lt;/strong&gt;
+&lt;/strong&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+    &lt;li&gt;Cebola caramelizada - R$1.00.&lt;/li&gt;
+    &lt;li&gt;Geléia de pimenta - R$1.50.&lt;/li&gt;
+    &lt;li&gt;Molho Barbecue - R$1.50.&lt;/li&gt;
+    &lt;li&gt;Cheddar - R$2.00.&lt;/li&gt;
+    &lt;li&gt;Ovo - R$1.00.&lt;/li&gt;
+    &lt;li&gt;Bacon - R$1.50.&lt;/li&gt;
+    &lt;li&gt;Batata frita - R$2.50.&lt;/li&gt;
+    &lt;li&gt;Cheddar e Bacon na batata - R$2.50.&lt;/li&gt;
+    &lt;li&gt;Muss. e Bacon na batata - R$2.50.&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Carcará contra filé - R$17.99]]></title><description><![CDATA[R$ 17.99]]></description><link>https://carcaras.netlify.com//lanches/carcara_contra_file/</link><guid isPermaLink="false">https://carcaras.netlify.com//lanches/carcara_contra_file/</guid><pubDate>Wed, 08 Apr 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;R$ 17.99&lt;/h1&gt;
+&lt;h3 id=&quot;unordered&quot;&gt;
+&lt;strong&gt;
+&lt;strong&gt;Ingredientes&lt;/strong&gt;
+&lt;/strong&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+    &lt;li&gt;Pão de baguete.&lt;/li&gt;
+    &lt;li&gt;Contra filé.&lt;/li&gt;
+    &lt;li&gt;Queijo prato.&lt;/li&gt;
+    &lt;li&gt;Molho especial.&lt;/li&gt;
+    &lt;li&gt;Tomate.&lt;/li&gt;
+    &lt;li&gt;Fritas.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+&lt;h3&gt;
+&lt;strong&gt;
+&lt;strong&gt;Adicionais&lt;/strong&gt;
+&lt;/strong&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+    &lt;li&gt;Cebola caramelizada - R$1.00.&lt;/li&gt;
+    &lt;li&gt;Geléia de pimenta - R$1.50.&lt;/li&gt;
+    &lt;li&gt;Molho Barbecue - R$1.50.&lt;/li&gt;
+    &lt;li&gt;Cheddar - R$2.00.&lt;/li&gt;
+    &lt;li&gt;Ovo - R$1.00.&lt;/li&gt;
+    &lt;li&gt;Bacon - R$1.50.&lt;/li&gt;
+    &lt;li&gt;Batata frita - R$2.50.&lt;/li&gt;
+    &lt;li&gt;Cheddar e Bacon na batata - R$2.50.&lt;/li&gt;
+    &lt;li&gt;Muss. e Bacon na batata - R$2.50.&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Carcará frango - R$16.90]]></title><description><![CDATA[R$ 16.90]]></description><link>https://carcaras.netlify.com//lanches/carcara_frango/</link><guid isPermaLink="false">https://carcaras.netlify.com//lanches/carcara_frango/</guid><pubDate>Wed, 08 Apr 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;R$ 16.90&lt;/h1&gt;
+&lt;h3 id=&quot;unordered&quot;&gt;
+&lt;strong&gt;
+&lt;strong&gt;Ingredientes&lt;/strong&gt;
+&lt;/strong&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+    &lt;li&gt;Pão de Baguete&lt;/li&gt;
+    &lt;li&gt;Filé de frango&lt;/li&gt;
+    &lt;li&gt;Queijo prato.&lt;/li&gt;
+    &lt;li&gt;Alface.&lt;/li&gt;
+    &lt;li&gt;Vinagrete.&lt;/li&gt;
+    &lt;li&gt;Ovo.&lt;/li&gt;
+    &lt;li&gt;Fritas.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+&lt;h3&gt;
+&lt;strong&gt;
+&lt;strong&gt;Adicionais&lt;/strong&gt;
+&lt;/strong&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+    &lt;li&gt;Cebola caramelizada - R$1.00.&lt;/li&gt;
+    &lt;li&gt;Geléia de pimenta - R$1.50.&lt;/li&gt;
+    &lt;li&gt;Molho Barbecue - R$1.50.&lt;/li&gt;
+    &lt;li&gt;Cheddar - R$2.00.&lt;/li&gt;
+    &lt;li&gt;Ovo - R$1.00.&lt;/li&gt;
+    &lt;li&gt;Bacon - R$1.50.&lt;/li&gt;
+    &lt;li&gt;Batata frita - R$2.50.&lt;/li&gt;
+    &lt;li&gt;Cheddar e Bacon na batata - R$2.50.&lt;/li&gt;
+    &lt;li&gt;Muss. e Bacon na batata - R$2.50.&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Carcará especial - R$17.80]]></title><description><![CDATA[R$ 17.80]]></description><link>https://carcaras.netlify.com//lanches/carcara_especial/</link><guid isPermaLink="false">https://carcaras.netlify.com//lanches/carcara_especial/</guid><pubDate>Wed, 08 Apr 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;R$ 17.80&lt;/h1&gt;
+&lt;h3 id=&quot;unordered&quot;&gt;
+&lt;strong&gt;
+&lt;strong&gt;Ingredientes&lt;/strong&gt;
+&lt;/strong&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+    &lt;li&gt;Hambúrguer de 150g.&lt;/li&gt;
+    &lt;li&gt;Bacon.&lt;/li&gt;
+    &lt;li&gt;Queijo prato.&lt;/li&gt;
+    &lt;li&gt;Alface.&lt;/li&gt;
+    &lt;li&gt;Tomate.&lt;/li&gt;
+    &lt;li&gt;Ovo.&lt;/li&gt;
+    &lt;li&gt;Fritas.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+&lt;h3&gt;
+&lt;strong&gt;
+&lt;strong&gt;Adicionais&lt;/strong&gt;
+&lt;/strong&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+    &lt;li&gt;Cebola caramelizada - R$1.00.&lt;/li&gt;
+    &lt;li&gt;Geléia de pimenta - R$1.50.&lt;/li&gt;
+    &lt;li&gt;Molho Barbecue - R$1.50.&lt;/li&gt;
+    &lt;li&gt;Cheddar - R$2.00.&lt;/li&gt;
+    &lt;li&gt;Ovo - R$1.00.&lt;/li&gt;
+    &lt;li&gt;Bacon - R$1.50.&lt;/li&gt;
+    &lt;li&gt;Batata frita - R$2.50.&lt;/li&gt;
+    &lt;li&gt;Cheddar e Bacon na batata - R$2.50.&lt;/li&gt;
+    &lt;li&gt;Muss. e Bacon na batata - R$2.50.&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Mini Carcará - R$29.99]]></title><description><![CDATA[R$ 29.99]]></description><link>https://carcaras.netlify.com//lanches/carcara_mini/</link><guid isPermaLink="false">https://carcaras.netlify.com//lanches/carcara_mini/</guid><pubDate>Wed, 08 Apr 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;R$ 29.99&lt;/h1&gt;
+&lt;h3 id=&quot;unordered&quot;&gt;
+&lt;strong&gt;
+&lt;strong&gt;Ingredientes&lt;/strong&gt;
+&lt;/strong&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+    &lt;li&gt;6 mini Hambúrgueres.&lt;/li&gt;
+    &lt;li&gt;(2 salada).&lt;/li&gt;
+    &lt;li&gt;(2 costela).&lt;/li&gt;
+    &lt;li&gt;(2 bacon).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+&lt;h3&gt;
+&lt;strong&gt;
+&lt;strong&gt;Adicionais&lt;/strong&gt;
+&lt;/strong&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+    &lt;li&gt;Cebola caramelizada - R$1.00.&lt;/li&gt;
+    &lt;li&gt;Geléia de pimenta - R$1.50.&lt;/li&gt;
+    &lt;li&gt;Molho Barbecue - R$1.50.&lt;/li&gt;
+    &lt;li&gt;Cheddar - R$2.00.&lt;/li&gt;
+    &lt;li&gt;Ovo - R$1.00.&lt;/li&gt;
+    &lt;li&gt;Bacon - R$1.50.&lt;/li&gt;
+    &lt;li&gt;Batata frita - R$2.50.&lt;/li&gt;
+    &lt;li&gt;Cheddar e Bacon na batata - R$2.50.&lt;/li&gt;
+    &lt;li&gt;Muss. e Bacon na batata - R$2.50.&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Carcará costela - R$18.49]]></title><description><![CDATA[R$ 18.49]]></description><link>https://carcaras.netlify.com//lanches/carcara_costela/</link><guid isPermaLink="false">https://carcaras.netlify.com//lanches/carcara_costela/</guid><pubDate>Tue, 07 Apr 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;R$ 18.49&lt;/h1&gt;
+&lt;h3 id=&quot;unordered&quot;&gt;
+&lt;strong&gt;
+&lt;strong&gt;Ingredientes&lt;/strong&gt;
+&lt;/strong&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+    &lt;li&gt;Hambúrguer de costela 150g.&lt;/li&gt;
+    &lt;li&gt;Bacon.&lt;/li&gt;
+    &lt;li&gt;Queijo prato.&lt;/li&gt;
+    &lt;li&gt;Cebola caramelizada.&lt;/li&gt;
+    &lt;li&gt;Tomate.&lt;/li&gt;
+    &lt;li&gt;Barbecue.&lt;/li&gt;
+    &lt;li&gt;Fritas.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+&lt;h3&gt;
+&lt;strong&gt;
+&lt;strong&gt;Adicionais&lt;/strong&gt;
+&lt;/strong&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+    &lt;li&gt;Cebola caramelizada - R$1.00.&lt;/li&gt;
+    &lt;li&gt;Geléia de pimenta - R$1.50.&lt;/li&gt;
+    &lt;li&gt;Molho Barbecue - R$1.50.&lt;/li&gt;
+    &lt;li&gt;Cheddar - R$2.00.&lt;/li&gt;
+    &lt;li&gt;Ovo - R$1.00.&lt;/li&gt;
+    &lt;li&gt;Bacon - R$1.50.&lt;/li&gt;
+    &lt;li&gt;Batata frita - R$2.50.&lt;/li&gt;
+    &lt;li&gt;Cheddar e Bacon na batata - R$2.50.&lt;/li&gt;
+    &lt;li&gt;Muss. e Bacon na batata - R$2.50.&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Carcará bacon - R$16.99]]></title><description><![CDATA[R$ 16.99]]></description><link>https://carcaras.netlify.com//lanches/carcara_bacon/</link><guid isPermaLink="false">https://carcaras.netlify.com//lanches/carcara_bacon/</guid><pubDate>Mon, 06 Apr 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;R$ 16.99&lt;/h1&gt;
+&lt;h3 id=&quot;unordered&quot;&gt;
+&lt;strong&gt;
+&lt;strong&gt;Ingredientes&lt;/strong&gt;
+&lt;/strong&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+    &lt;li&gt;Hambúrguer de 150g.&lt;/li&gt;
+    &lt;li&gt;Bacon.&lt;/li&gt;
+    &lt;li&gt;Cheddar.&lt;/li&gt;
+    &lt;li&gt;Cebola roxa.&lt;/li&gt;
+    &lt;li&gt;Fritas.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+&lt;h3&gt;
+&lt;strong&gt;
+&lt;strong&gt;Adicionais&lt;/strong&gt;
+&lt;/strong&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+    &lt;li&gt;Cebola caramelizada - R$1.00.&lt;/li&gt;
+    &lt;li&gt;Geléia de pimenta - R$1.50.&lt;/li&gt;
+    &lt;li&gt;Molho Barbecue - R$1.50.&lt;/li&gt;
+    &lt;li&gt;Cheddar - R$2.00.&lt;/li&gt;
+    &lt;li&gt;Ovo - R$1.00.&lt;/li&gt;
+    &lt;li&gt;Bacon - R$1.50.&lt;/li&gt;
+    &lt;li&gt;Batata frita - R$2.50.&lt;/li&gt;
+    &lt;li&gt;Cheddar e Bacon na batata - R$2.50.&lt;/li&gt;
+    &lt;li&gt;Muss. e Bacon na batata - R$2.50.&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Carcará salada - R$14.90]]></title><description><![CDATA[R$ 14.90]]></description><link>https://carcaras.netlify.com//lanches/carcara_salada/</link><guid isPermaLink="false">https://carcaras.netlify.com//lanches/carcara_salada/</guid><pubDate>Sun, 05 Apr 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;R$ 14.90&lt;/h1&gt;
+&lt;h3 id=&quot;unordered&quot;&gt;
+&lt;strong&gt;
+&lt;strong&gt;Ingredientes&lt;/strong&gt;
+&lt;/strong&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+    &lt;li&gt;Hambúrguer de 150g.&lt;/li&gt;
+    &lt;li&gt;Queijo prato.&lt;/li&gt;
+    &lt;li&gt;Alface.&lt;/li&gt;
+    &lt;li&gt;Tomate.&lt;/li&gt;
+    &lt;li&gt;Fritas.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+&lt;h3&gt;
+&lt;strong&gt;
+&lt;strong&gt;Adicionais&lt;/strong&gt;
+&lt;/strong&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+    &lt;li&gt;Cebola caramelizada - R$1.00.&lt;/li&gt;
+    &lt;li&gt;Geléia de pimenta - R$1.50.&lt;/li&gt;
+    &lt;li&gt;Molho Barbecue - R$1.50.&lt;/li&gt;
+    &lt;li&gt;Cheddar - R$2.00.&lt;/li&gt;
+    &lt;li&gt;Ovo - R$1.00.&lt;/li&gt;
+    &lt;li&gt;Bacon - R$1.50.&lt;/li&gt;
+    &lt;li&gt;Batata frita - R$2.50.&lt;/li&gt;
+    &lt;li&gt;Cheddar e Bacon na batata - R$2.50.&lt;/li&gt;
+    &lt;li&gt;Muss. e Bacon na batata - R$2.50.&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Chopp caneca 350ml - R$4.49]]></title><description><![CDATA[R$ 4.49]]></description><link>https://carcaras.netlify.com//bebidas/chopp/</link><guid isPermaLink="false">https://carcaras.netlify.com//bebidas/chopp/</guid><pubDate>Sun, 10 Jan 2010 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a95caa1518e069c125dd65c79f7f738e/66f3e/ashby_chopp.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/a95caa1518e069c125dd65c79f7f738e/53e9f/ashby_chopp.webp 340w,
+/static/a95caa1518e069c125dd65c79f7f738e/0991f/ashby_chopp.webp 680w,
+/static/a95caa1518e069c125dd65c79f7f738e/9d77c/ashby_chopp.webp 1360w,
+/static/a95caa1518e069c125dd65c79f7f738e/19b83/ashby_chopp.webp 1574w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/a95caa1518e069c125dd65c79f7f738e/a2595/ashby_chopp.png 340w,
+/static/a95caa1518e069c125dd65c79f7f738e/2473e/ashby_chopp.png 680w,
+/static/a95caa1518e069c125dd65c79f7f738e/55534/ashby_chopp.png 1360w,
+/static/a95caa1518e069c125dd65c79f7f738e/66f3e/ashby_chopp.png 1574w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/a95caa1518e069c125dd65c79f7f738e/55534/ashby_chopp.png&quot;
+          alt=&quot;Ashby chopp&quot;
+          title=&quot;&quot;
+          src=&quot;/static/a95caa1518e069c125dd65c79f7f738e/55534/ashby_chopp.png&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h1&gt;R$ 4.49&lt;/h1&gt;</content:encoded></item><item><title><![CDATA[Chopp caneca 600ml - R$7.99]]></title><description><![CDATA[R$ 7.99]]></description><link>https://carcaras.netlify.com//bebidas/chopp_2/</link><guid isPermaLink="false">https://carcaras.netlify.com//bebidas/chopp_2/</guid><pubDate>Sat, 09 Jan 2010 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a95caa1518e069c125dd65c79f7f738e/66f3e/ashby_chopp.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/a95caa1518e069c125dd65c79f7f738e/53e9f/ashby_chopp.webp 340w,
+/static/a95caa1518e069c125dd65c79f7f738e/0991f/ashby_chopp.webp 680w,
+/static/a95caa1518e069c125dd65c79f7f738e/9d77c/ashby_chopp.webp 1360w,
+/static/a95caa1518e069c125dd65c79f7f738e/19b83/ashby_chopp.webp 1574w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/a95caa1518e069c125dd65c79f7f738e/a2595/ashby_chopp.png 340w,
+/static/a95caa1518e069c125dd65c79f7f738e/2473e/ashby_chopp.png 680w,
+/static/a95caa1518e069c125dd65c79f7f738e/55534/ashby_chopp.png 1360w,
+/static/a95caa1518e069c125dd65c79f7f738e/66f3e/ashby_chopp.png 1574w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/a95caa1518e069c125dd65c79f7f738e/55534/ashby_chopp.png&quot;
+          alt=&quot;Ashby chopp&quot;
+          title=&quot;&quot;
+          src=&quot;/static/a95caa1518e069c125dd65c79f7f738e/55534/ashby_chopp.png&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h1&gt;R$ 7.99&lt;/h1&gt;</content:encoded></item><item><title><![CDATA[Chopp vinho 350ml - R$6.49]]></title><description><![CDATA[R$ 6.49]]></description><link>https://carcaras.netlify.com//bebidas/vinho_1/</link><guid isPermaLink="false">https://carcaras.netlify.com//bebidas/vinho_1/</guid><pubDate>Sat, 09 Jan 2010 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a95caa1518e069c125dd65c79f7f738e/66f3e/ashby_chopp.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/a95caa1518e069c125dd65c79f7f738e/53e9f/ashby_chopp.webp 340w,
+/static/a95caa1518e069c125dd65c79f7f738e/0991f/ashby_chopp.webp 680w,
+/static/a95caa1518e069c125dd65c79f7f738e/9d77c/ashby_chopp.webp 1360w,
+/static/a95caa1518e069c125dd65c79f7f738e/19b83/ashby_chopp.webp 1574w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/a95caa1518e069c125dd65c79f7f738e/a2595/ashby_chopp.png 340w,
+/static/a95caa1518e069c125dd65c79f7f738e/2473e/ashby_chopp.png 680w,
+/static/a95caa1518e069c125dd65c79f7f738e/55534/ashby_chopp.png 1360w,
+/static/a95caa1518e069c125dd65c79f7f738e/66f3e/ashby_chopp.png 1574w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/a95caa1518e069c125dd65c79f7f738e/55534/ashby_chopp.png&quot;
+          alt=&quot;Ashby chopp&quot;
+          title=&quot;&quot;
+          src=&quot;/static/a95caa1518e069c125dd65c79f7f738e/55534/ashby_chopp.png&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h1&gt;R$ 6.49&lt;/h1&gt;</content:encoded></item><item><title><![CDATA[Chopp vinho 600ml - R$11.90]]></title><description><![CDATA[R$ 11.90]]></description><link>https://carcaras.netlify.com//bebidas/vinho_2/</link><guid isPermaLink="false">https://carcaras.netlify.com//bebidas/vinho_2/</guid><pubDate>Sat, 09 Jan 2010 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a95caa1518e069c125dd65c79f7f738e/66f3e/ashby_chopp.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/a95caa1518e069c125dd65c79f7f738e/53e9f/ashby_chopp.webp 340w,
+/static/a95caa1518e069c125dd65c79f7f738e/0991f/ashby_chopp.webp 680w,
+/static/a95caa1518e069c125dd65c79f7f738e/9d77c/ashby_chopp.webp 1360w,
+/static/a95caa1518e069c125dd65c79f7f738e/19b83/ashby_chopp.webp 1574w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/a95caa1518e069c125dd65c79f7f738e/a2595/ashby_chopp.png 340w,
+/static/a95caa1518e069c125dd65c79f7f738e/2473e/ashby_chopp.png 680w,
+/static/a95caa1518e069c125dd65c79f7f738e/55534/ashby_chopp.png 1360w,
+/static/a95caa1518e069c125dd65c79f7f738e/66f3e/ashby_chopp.png 1574w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/a95caa1518e069c125dd65c79f7f738e/55534/ashby_chopp.png&quot;
+          alt=&quot;Ashby chopp&quot;
+          title=&quot;&quot;
+          src=&quot;/static/a95caa1518e069c125dd65c79f7f738e/55534/ashby_chopp.png&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h1&gt;R$ 11.90&lt;/h1&gt;</content:encoded></item><item><title><![CDATA[Torre 1L - R$16.99]]></title><description><![CDATA[R$ 16.99]]></description><link>https://carcaras.netlify.com//bebidas/torre_1/</link><guid isPermaLink="false">https://carcaras.netlify.com//bebidas/torre_1/</guid><pubDate>Fri, 08 Jan 2010 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a95caa1518e069c125dd65c79f7f738e/66f3e/ashby_chopp.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/a95caa1518e069c125dd65c79f7f738e/53e9f/ashby_chopp.webp 340w,
+/static/a95caa1518e069c125dd65c79f7f738e/0991f/ashby_chopp.webp 680w,
+/static/a95caa1518e069c125dd65c79f7f738e/9d77c/ashby_chopp.webp 1360w,
+/static/a95caa1518e069c125dd65c79f7f738e/19b83/ashby_chopp.webp 1574w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/a95caa1518e069c125dd65c79f7f738e/a2595/ashby_chopp.png 340w,
+/static/a95caa1518e069c125dd65c79f7f738e/2473e/ashby_chopp.png 680w,
+/static/a95caa1518e069c125dd65c79f7f738e/55534/ashby_chopp.png 1360w,
+/static/a95caa1518e069c125dd65c79f7f738e/66f3e/ashby_chopp.png 1574w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/a95caa1518e069c125dd65c79f7f738e/55534/ashby_chopp.png&quot;
+          alt=&quot;Ashby chopp&quot;
+          title=&quot;&quot;
+          src=&quot;/static/a95caa1518e069c125dd65c79f7f738e/55534/ashby_chopp.png&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h1&gt;R$ 16.99&lt;/h1&gt;</content:encoded></item><item><title><![CDATA[Torre 2.5L - R$33.99]]></title><description><![CDATA[R$ 33.99]]></description><link>https://carcaras.netlify.com//bebidas/torre_2/</link><guid isPermaLink="false">https://carcaras.netlify.com//bebidas/torre_2/</guid><pubDate>Thu, 07 Jan 2010 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a95caa1518e069c125dd65c79f7f738e/66f3e/ashby_chopp.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/a95caa1518e069c125dd65c79f7f738e/53e9f/ashby_chopp.webp 340w,
+/static/a95caa1518e069c125dd65c79f7f738e/0991f/ashby_chopp.webp 680w,
+/static/a95caa1518e069c125dd65c79f7f738e/9d77c/ashby_chopp.webp 1360w,
+/static/a95caa1518e069c125dd65c79f7f738e/19b83/ashby_chopp.webp 1574w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/a95caa1518e069c125dd65c79f7f738e/a2595/ashby_chopp.png 340w,
+/static/a95caa1518e069c125dd65c79f7f738e/2473e/ashby_chopp.png 680w,
+/static/a95caa1518e069c125dd65c79f7f738e/55534/ashby_chopp.png 1360w,
+/static/a95caa1518e069c125dd65c79f7f738e/66f3e/ashby_chopp.png 1574w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/a95caa1518e069c125dd65c79f7f738e/55534/ashby_chopp.png&quot;
+          alt=&quot;Ashby chopp&quot;
+          title=&quot;&quot;
+          src=&quot;/static/a95caa1518e069c125dd65c79f7f738e/55534/ashby_chopp.png&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h1&gt;R$ 33.99&lt;/h1&gt;</content:encoded></item></channel></rss>

@@ -33,7 +33,7 @@ const Layout = props => {
                 <Link to={`/tags`}>Cardápio</Link>
               </li>
               <li className="nav-elements" role="menuitem">
-                <Link to={`/blog`}>Blog</Link>
+                <Link to={`/blog`}>Eventos</Link>
               </li>
               <li className="nav-about" role="menuitem">
                 <Link to={`/about`}>Saiba +</Link>
@@ -42,13 +42,13 @@ const Layout = props => {
           </nav>
           <div className="site-head-center">
             <Link className="site-head-logo" to={`/`}>
-              {title}
+              Carcará's
             </Link>
           </div>
           <div className="site-head-right">
             <div className="social-links">
             <a 
-                href="https://api.whatsapp.com/send?phone=5519991621576&text=Olá,%20eu%20gostaria%20de%20fazer%20um%20pedido"
+                href="https://api.whatsapp.com/send?phone=5519992094654&text=Olá,%20eu%20gostaria%20de%20fazer%20um%20pedido"
                 title="Whatsapp"
                 target="_blank"
                 rel="noopener noreferrer"
