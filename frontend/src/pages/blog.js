@@ -18,9 +18,11 @@ const ElementsPage = ({ data }, location) => {
       />
       <article className="post-content page-template no-image">
         <div className="post-content-body">
-            <p>
-                Eventos Carcará Bar
-            </p>
+            
+              <blockquote>
+                Aguarde, coisas incríveis estão por vir!
+              </blockquote>
+            
         </div>
       </article>
     </Layout>
