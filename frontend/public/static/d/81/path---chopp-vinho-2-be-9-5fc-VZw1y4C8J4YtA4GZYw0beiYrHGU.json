@@ -1,0 +1,1 @@
+{"errors":[{"message":"Unknown argument \"formatString\" on field \"date\" of type \"MarkdownRemarkFrontmatter\".","locations":[{"line":16,"column":12}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"slug":"/chopp/vinho_2/","previous":{"fields":{"slug":"/lanches/carcara_20/"},"frontmatter":{"title":"Carcará 2.0 - R$19.99","tags":["Lanches"]}},"next":null}}
