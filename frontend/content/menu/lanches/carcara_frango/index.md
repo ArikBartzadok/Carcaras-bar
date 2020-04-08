@@ -1,7 +1,7 @@
 ---
 title: Carcará frango - R$16.90
 tags: [Lanches]
-date: "2020-04-08"
+date: "2020-04-02"
 thumbnail: ./carcara_frango.JPG
 description: Carcará frango
 ---

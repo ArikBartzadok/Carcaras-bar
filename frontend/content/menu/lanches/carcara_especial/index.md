@@ -1,7 +1,7 @@
 ---
 title: Carcará especial - R$17.80
 tags: [Lanches]
-date: "2020-04-08"
+date: "2020-04-06"
 thumbnail: ./carcara_especial.JPG
 description: Carcará especial
 ---

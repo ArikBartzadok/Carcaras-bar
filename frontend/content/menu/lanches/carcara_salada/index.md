@@ -1,7 +1,7 @@
 ---
 title: Carcará salada - R$14.90
 tags: [Lanches]
-date: "2020-04-05"
+date: "2020-04-04"
 thumbnail: ./carcara_salada.JPG
 description: Carcará salada
 ---

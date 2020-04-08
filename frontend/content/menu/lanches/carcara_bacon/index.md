@@ -1,7 +1,7 @@
 ---
 title: Carcará bacon - R$16.99
 tags: [Lanches]
-date: "2020-04-06"
+date: "2020-04-07"
 thumbnail: ./carcara_bacon.JPG
 description: Carcará bacon
 ---

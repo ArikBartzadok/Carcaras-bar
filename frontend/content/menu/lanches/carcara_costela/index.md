@@ -1,7 +1,7 @@
 ---
 title: Carcará costela - R$18.49
 tags: [Lanches]
-date: "2020-04-07"
+date: "2020-04-08"
 thumbnail: ./carcara_costela.JPG
 description: Carcará costela
 ---

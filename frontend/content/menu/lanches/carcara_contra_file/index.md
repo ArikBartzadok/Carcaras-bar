@@ -1,7 +1,7 @@
 ---
 title: Carcará contra filé - R$17.99
 tags: [Lanches]
-date: "2020-04-08"
+date: "2020-04-03"
 thumbnail: ./carcara_contra_file.JPG
 description: Carcará contra filé
 ---
@@ -19,6 +19,7 @@ description: Carcará contra filé
     <li>Queijo prato.</li>
     <li>Molho especial.</li>
     <li>Tomate.</li>
+    <li>Cebola.</li>
     <li>Fritas.</li>
 </ul>
 

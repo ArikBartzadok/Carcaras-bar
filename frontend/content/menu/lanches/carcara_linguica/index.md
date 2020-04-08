@@ -1,7 +1,7 @@
 ---
 title: Carcará linguiça - R$17.49
 tags: [Lanches]
-date: "2020-04-10"
+date: "2020-04-05"
 thumbnail: ./carcara_linguica.JPG
 description: Carcará linguiça
 ---
