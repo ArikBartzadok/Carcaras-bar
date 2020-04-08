@@ -38,9 +38,9 @@ class ContentNoImage extends Component {
           </h2>
         </Link>
         </div>
-        <div className="post-card-date">
+        {/*<div className="post-card-date">
         {props.node.frontmatter.date}
-        </div>
+    </div>*/}
         <div className="post-card-body">
         {props.node.frontmatter.description || props.node.excerpt}
         </div>
@@ -48,7 +48,7 @@ class ContentNoImage extends Component {
         <Link to={props.node.fields.slug} className="post-card-link post-card-readmore">
           {
             props.node.frontmatter.description || props.node.excerpt
-              ?("Read more")
+              ?("Ver detalhes")
               :(null)
           }
         </Link>

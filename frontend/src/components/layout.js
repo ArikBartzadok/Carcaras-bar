@@ -56,7 +56,7 @@ const Layout = props => {
                 Whatsapp
               </a>
               <a
-                href="https://github.com/ArikBartzadok/"
+                href="https://www.facebook.com/carcarasbar/"
                 title="Facebook"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -64,7 +64,7 @@ const Layout = props => {
               Facebook
               </a>                 
               <a
-                href="https://github.com/ArikBartzadok/"
+                href="https://www.instagram.com/carcarasbar/"
                 title="GitHub"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -84,7 +84,7 @@ const Layout = props => {
         &copy; {new Date().getFullYear()} <Link to={`/`}>{title}</Link> &mdash;
         Development by {" "}
         <a
-          href="https://diogodeveloper.netlify.com/"
+          href="http://bit.ly/diogocarcara"
           target="_blank"
           rel="noopener noreferrer"
         >
