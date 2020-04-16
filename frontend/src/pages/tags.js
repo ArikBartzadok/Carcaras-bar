@@ -22,19 +22,132 @@ const TagIndex = ({ data }) => {
       <header className="tag-page-head">
           <h1 className="page-head-title">Cardápio({tags.length})</h1>
       </header>
-      <div className="tag-container">
-        {tags.map( tag => {
-          return(
-              <Link
-              key={tag}
-              style={{ textDecoration: "none" }}
-              to={`/tags/${_.kebabCase(tag)}`}
-              >
-              <div className="tag-item">#{tag}</div>
+      
+      <h3 id="dynamic-styles">Bebidas:</h3>
+      <blockquote>
+        <ul>
+          <li>
+          <Link              
+                style={{ textDecoration: "none" }}
+                to={`/tags/cervejas`}
+                >
+                #Cervejas
               </Link>
-            )
-          })}
-        </div>
+          </li>
+          <li>
+          <Link              
+                style={{ textDecoration: "none" }}
+                to={`/tags/chopp`}
+                >
+                #Chopp
+              </Link>
+          </li>
+          <li>
+          <Link              
+                style={{ textDecoration: "none" }}
+                to={`/tags/doses`}
+                >
+                #Doses
+              </Link>
+          </li>
+          <li>
+          <Link              
+                style={{ textDecoration: "none" }}
+                to={`/tags/drinks`}
+                >
+                #Drinks
+              </Link>
+          </li>
+          <li>
+          <Link              
+                style={{ textDecoration: "none" }}
+                to={`/tags/mega-drinks`}
+                >
+                #Mega-drinks
+              </Link>
+          </li>
+          <li>
+          <Link              
+                style={{ textDecoration: "none" }}
+                to={`/tags/outros`}
+                >
+                #Outros
+              </Link>
+          </li>
+          <li>
+          <Link              
+                style={{ textDecoration: "none" }}
+                to={`/tags/sucos`}
+                >
+                #Sucos
+              </Link>
+          </li>
+          <li>
+          <Link              
+                style={{ textDecoration: "none" }}
+                to={`/tags/refrigerantes-2-l`}
+                >
+                #Refrigerantes-2L
+              </Link>
+          </li>
+          <li>
+          <Link              
+                style={{ textDecoration: "none" }}
+                to={`/tags/refrigerantes-lata`}
+                >
+                #Refrigerantes-Lata
+              </Link>
+          </li>
+        </ul>
+              
+                            
+      </blockquote>
+      <br />
+      <br />
+      <h3 id="dynamic-styles">Lanches:</h3>
+      <blockquote>
+        <ul>
+        <li>
+          <Link              
+                style={{ textDecoration: "none" }}
+                to={`/tags/lanches`}
+                >
+                #Lanches
+              </Link>
+          </li>
+        </ul>
+      </blockquote>
+      <br />
+      <br />
+      <h3 id="dynamic-styles">Porções:</h3>
+      <blockquote>
+        <ul>
+        <li>
+          <Link              
+                style={{ textDecoration: "none" }}
+                to={`/tags/porcoes`}
+                >
+                #Porções
+              </Link>
+          </li>
+        </ul>
+      </blockquote>
+      <br />
+      <br />
+      <h3 id="dynamic-styles">Combos:</h3>
+      <blockquote>
+        <ul>
+        <li>
+          <Link              
+                style={{ textDecoration: "none" }}
+                to={`/tags/combos`}
+                >
+                #Combos
+              </Link>
+          </li>
+        </ul>
+      </blockquote>            
+        
     </Layout>
   )
 }
