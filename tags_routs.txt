@@ -1,0 +1,14 @@
+routes:
+
+http://localhost:8000/tags/cervejas
+http://localhost:8000/tags/chopp
+http://localhost:8000/tags/combos
+http://localhost:8000/tags/doses
+http://localhost:8000/tags/drinks
+http://localhost:8000/tags/lanches
+http://localhost:8000/tags/mega-drinks
+http://localhost:8000/tags/outros
+http://localhost:8000/tags/porcoes
+http://localhost:8000/tags/refrigerantes-2-l
+http://localhost:8000/tags/refrigerantes-lata
+http://localhost:8000/tags/sucos
