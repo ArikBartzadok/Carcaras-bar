@@ -12,7 +12,7 @@ description: Croquete unidade ou porção com 20 mini croquetes
 </strong>
 </h3>
 
-# R$ 25.00
+# R$ 27.00
 
 <ul>
     <li>Mortadela.</li>
@@ -29,7 +29,7 @@ description: Croquete unidade ou porção com 20 mini croquetes
 </strong>
 </h3>
 
-# R$ 3.99
+# R$ 5.00
 
 <ul>
     <li>Bacalhau.</li>    

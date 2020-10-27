@@ -6,4 +6,4 @@ thumbnail:
 description: Contra filé com fritas
 ---
 
-# R$ 29.99
+# R$ 35,00

@@ -6,4 +6,4 @@ thumbnail:
 description: Chopp caneca de 350ml
 ---
 
-# R$ 4.49
+# R$ 5.00

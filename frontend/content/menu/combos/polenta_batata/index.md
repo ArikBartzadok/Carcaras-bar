@@ -1,12 +1,12 @@
 ---
-title: Polenta e Batata - R$24.99
+title: Polenta e Batata - R$27.00
 tags: [Combos]
 date: "2011-01-04"
 thumbnail: 
 description: Combo de Polenta e Batata
 ---
 
-# R$ 24.99
+# R$ 27.00
 
 <h3 id="unordered">
 <strong>

@@ -12,7 +12,7 @@ description: Isca de Tilápia
 </strong>
 </h3>
 
-# R$ 47.99
+# R$ 50.00
 
 <br/>
 
@@ -22,4 +22,4 @@ description: Isca de Tilápia
 </strong>
 </h3>
 
-# R$ 25.99
+# R$ 29.00

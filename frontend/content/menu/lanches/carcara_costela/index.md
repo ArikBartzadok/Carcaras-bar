@@ -1,12 +1,12 @@
 ---
-title: Carcará costela - R$18.49
+title: Carcará costela - R$20.50
 tags: [Lanches]
 date: "2020-04-08"
 thumbnail: ./carcara_costela.JPG
 description: Carcará costela
 ---
 
-# R$ 18.49
+# R$ 20.50
 
 <h3 id="unordered">
 <strong>
@@ -34,10 +34,10 @@ description: Carcará costela
     <li>Cebola caramelizada - R$1.00.</li>
     <li>Geléia de pimenta - R$1.50.</li>
     <li>Molho Barbecue - R$1.50.</li>
-    <li>Cheddar - R$2.00.</li>
+    <li>Cheddar - R$3.50.</li>
     <li>Ovo - R$1.00.</li>
-    <li>Bacon - R$1.50.</li>
+    <li>Bacon - R$2.50.</li>
     <li>Batata frita - R$2.50.</li>
-    <li>Cheddar e Bacon na batata - R$2.50.</li>
-    <li>Muss. e Bacon na batata - R$2.50.</li>
+    <li>Cheddar e Bacon na batata - R$4.00.</li>
+    <li>Muss. e Bacon na batata - R$4.00.</li>
 </ul>

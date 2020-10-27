@@ -12,7 +12,7 @@ description: Isca de Panceta
 </strong>
 </h3>
 
-# R$ 29.90
+# R$ 34.00
 
 <br/>
 
@@ -22,4 +22,4 @@ description: Isca de Panceta
 </strong>
 </h3>
 
-# R$ 20.90
+# R$ 24.00
