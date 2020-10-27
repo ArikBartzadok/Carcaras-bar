@@ -1,5 +1,5 @@
 ---
-title: Chopp caneca 350ml - R$4.49
+title: Chopp caneca 350ml - R$5.00
 tags: [Chopp]
 date: "2010-01-10"
 thumbnail: 
