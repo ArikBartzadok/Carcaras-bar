@@ -82,7 +82,7 @@ const Layout = props => {
       </main>
       <footer className="site-foot">
         &copy; {new Date().getFullYear()} <Link to={`/`}>{title}</Link> &mdash;
-        Development by {" "}
+        Desenvolvido por {" "}
         <a
           href="http://bit.ly/diogocarcara"
           target="_blank"

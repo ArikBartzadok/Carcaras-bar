@@ -6,4 +6,4 @@ thumbnail:
 description: Calabresa acebolada
 ---
 
-# R$ 16.99
+# R\$ 18.00

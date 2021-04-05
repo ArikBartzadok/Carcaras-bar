@@ -1,12 +1,12 @@
 ---
-title: Calabresa e Batata - R$29.99
+title: Calabresa e Batata - R$32.00
 tags: [Combos]
 date: "2011-01-05"
-thumbnail: 
+thumbnail:
 description: Combo de Calabresa e Batata
 ---
 
-# R$ 29.99
+# R\$ 32.00
 
 <h3 id="unordered">
 <strong>

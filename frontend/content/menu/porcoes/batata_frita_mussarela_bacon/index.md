@@ -12,7 +12,7 @@ description: Batata Frita com Mussarela e Bacon
 </strong>
 </h3>
 
-# R$ 30.00
+# R\$ 34.00
 
 <br/>
 
@@ -22,4 +22,4 @@ description: Batata Frita com Mussarela e Bacon
 </strong>
 </h3>
 
-# R$ 24.00
+# R\$ 26.50

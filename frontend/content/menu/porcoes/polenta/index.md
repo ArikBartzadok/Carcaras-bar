@@ -12,7 +12,7 @@ description: Polenta
 </strong>
 </h3>
 
-# R$ 16.00
+# R\$ 17.00
 
 <br/>
 
@@ -22,4 +22,4 @@ description: Polenta
 </strong>
 </h3>
 
-# R$ 12.00
+# R\$ 13.00

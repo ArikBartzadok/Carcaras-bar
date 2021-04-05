@@ -1,12 +1,12 @@
 ---
-title: Frango e Batata - R$30.00
+title: Frango e Batata - R$32.00
 tags: [Combos]
 date: "2011-01-05"
-thumbnail: 
+thumbnail:
 description: Combo de Frango e Batata
 ---
 
-# R$ 30.00
+# R\$ 32.00
 
 <h3 id="unordered">
 <strong>

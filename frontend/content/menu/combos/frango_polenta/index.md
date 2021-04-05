@@ -1,12 +1,12 @@
 ---
-title: Frango e Polenta - R$27.00
+title: Frango e Polenta - R$30.00
 tags: [Combos]
 date: "2011-01-03"
-thumbnail: 
+thumbnail:
 description: Combo de Frango e Polenta
 ---
 
-# R$ 27.00
+# R\$ 30.00
 
 <h3 id="unordered">
 <strong>

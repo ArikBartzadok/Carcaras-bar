@@ -6,7 +6,7 @@
 
 # Hi, i'm Diogo.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://carcaras.netlify.com?repository=https://github.com/ArikBartzadok/Carcaras-bar/) 
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://carcaras.netlify.com?repository=https://github.com/ArikBartzadok/Carcaras-bar/)
 
 # Carcaras-bar
 
@@ -27,6 +27,7 @@ $ cd <<PROJECT_NAME>> && rm -r .git
 ```
 
 ## Development
+
 ```
 $ cd frontend/
 $ npm run dev
@@ -35,10 +36,20 @@ $ gatsby develop
 ```
 
 ## Build
+
 ```
 $ npm run build
 # or
 $ gatsby build
+```
+
+## Fixing
+
+If an exception related to "msvs_version" is thrown (in windows), just run (as admin):
+
+```
+$ npm i -g windows-build-tools
+$ npm config set msvs_version 2017
 ```
 
 ## Author
@@ -49,10 +60,10 @@ $ gatsby build
 
 This project is open source and available under the [MIT License](LICENSE).
 
-
 <div align="center" style="margin-bottom:30px">
 
-# Support me  
+# Support me
+
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C81IJH6)
 
 </div>

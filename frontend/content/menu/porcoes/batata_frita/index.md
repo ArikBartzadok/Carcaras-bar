@@ -12,7 +12,7 @@ description: Batata frita
 </strong>
 </h3>
 
-# R$ 21.00
+# R\$ 24.00
 
 <br/>
 
@@ -22,4 +22,4 @@ description: Batata frita
 </strong>
 </h3>
 
-# R$ 17.00
+# R\$ 18.50

@@ -1,12 +1,12 @@
 ---
-title: Mini Carcará - R$35.00
+title: Mini Carcará - R$36.00
 tags: [Lanches]
 date: "2020-04-01"
 thumbnail: ./mini_carcara.jpg
 description: Mini Carcará
 ---
 
-# R$ 35.00
+# R\$ 36.00
 
 <h3 id="unordered">
 <strong>
@@ -31,10 +31,10 @@ description: Mini Carcará
     <li>Cebola caramelizada - R$1.00.</li>
     <li>Geléia de pimenta - R$1.50.</li>
     <li>Molho Barbecue - R$1.50.</li>
-    <li>Cheddar - R$3.50.</li>
+    <li>Cheddar - R$ 4.00.</li>
     <li>Ovo - R$1.00.</li>
-    <li>Bacon - R$2.50.</li>
+    <li>Bacon- R$ 3.00.</li>
     <li>Batata frita - R$2.50.</li>
-    <li>Cheddar e Bacon na batata - R$4.00.</li>
-    <li>Muss. e Bacon na batata - R$4.00.</li>
+    <li>Cheddar e Bacon na batata - R$4.50.</li>
+    <li>Muss. e Bacon na batata - R$4.50.</li>
 </ul>

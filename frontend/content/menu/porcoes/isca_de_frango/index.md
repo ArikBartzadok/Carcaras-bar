@@ -12,7 +12,7 @@ description: Isca de frango
 </strong>
 </h3>
 
-# R$ 21.00
+# R\$ 26.00
 
 <br/>
 
@@ -22,4 +22,4 @@ description: Isca de frango
 </strong>
 </h3>
 
-# R$ 17.00
+# R\$ 20.00
