@@ -1,12 +1,12 @@
 ---
-title: Carcará costela - R$25.00
+title: Mini vegetariano - R$22.00
 tags: [Lanches]
-date: "2020-04-08"
-thumbnail: ./carcara_costela.JPG
-description: Carcará costela
+date: "2020-04-01"
+# thumbnail: ./mini_carcara.jpg
+description: Mini vegetariano
 ---
 
-# R\$ 25.00
+# R\$ 22.00
 
 <h3 id="unordered">
 <strong>
@@ -14,12 +14,11 @@ description: Carcará costela
 </strong>
 </h3>
 <ul>
-    <li>Hambúrguer de costela 160g.</li>
-    <li>Bacon.</li>
-    <li>Queijo prato.</li>
-    <li>Cebola caramelizada.</li>
-    <li>Molho barbecue.</li>
+    <li>Pão de brioche.</li>
+    <li>Hambúrguer de grão de bico e especiarias.</li>
+    <li>Mussarela.</li>
     <li>Tomate.</li>
+    <li>Alface.</li>
     <li>Acompanha fritas.</li>
 </ul>
 

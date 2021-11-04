@@ -1,12 +1,12 @@
 ---
-title: Carcará costela - R$25.00
+title: Mini kids (combo) - R$16.00
 tags: [Lanches]
-date: "2020-04-08"
-thumbnail: ./carcara_costela.JPG
-description: Carcará costela
+date: "2020-04-01"
+# thumbnail: ./mini_carcara.jpg
+description: Mini kids (combo)
 ---
 
-# R\$ 25.00
+# R\$ 16.00
 
 <h3 id="unordered">
 <strong>
@@ -14,13 +14,7 @@ description: Carcará costela
 </strong>
 </h3>
 <ul>
-    <li>Hambúrguer de costela 160g.</li>
-    <li>Bacon.</li>
-    <li>Queijo prato.</li>
-    <li>Cebola caramelizada.</li>
-    <li>Molho barbecue.</li>
-    <li>Tomate.</li>
-    <li>Acompanha fritas.</li>
+    <li>1 mini hambúrguer de 60g, batata frita e 1 suco ou refrigerante lata.</li>
 </ul>
 
 <br />
