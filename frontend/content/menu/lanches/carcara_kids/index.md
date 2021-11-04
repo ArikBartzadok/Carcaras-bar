@@ -1,9 +1,9 @@
 ---
-title: Mini kids (combo) - R$16.00
+title: Carcará kids (combo) - R$16.00
 tags: [Lanches]
 date: "2020-04-01"
 # thumbnail: ./mini_carcara.jpg
-description: Mini kids (combo)
+description: Carcará kids (combo)
 ---
 
 # R\$ 16.00

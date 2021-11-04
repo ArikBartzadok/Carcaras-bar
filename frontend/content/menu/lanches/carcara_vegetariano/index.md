@@ -1,9 +1,9 @@
 ---
-title: Mini vegetariano - R$22.00
+title: Carcará vegetariano - R$22.00
 tags: [Lanches]
 date: "2020-04-01"
 # thumbnail: ./mini_carcara.jpg
-description: Mini vegetariano
+description: Carcará vegetariano
 ---
 
 # R\$ 22.00
